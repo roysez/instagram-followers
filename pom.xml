@@ -8,5 +8,11 @@
     <artifactId>org.instagram.bot</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.brunocvcunha.instagram4j</groupId>
+            <artifactId>instagram4j</artifactId>
+            <version>1.5</version>
+        </dependency>
+    </dependencies>
 </project>
